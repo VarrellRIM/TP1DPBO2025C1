@@ -105,7 +105,6 @@ int main() {
             // Cari Produk berdasarkan Nama
             string nama;
             cout << "Masukkan Nama Produk yang dicari: ";
-            cin.ignore();
             getline(cin, nama);
 
             bool found = false;
