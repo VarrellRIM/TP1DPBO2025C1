@@ -4,7 +4,7 @@
 Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamin.
 
 ## 📌 Deskripsi TP  
-TP ini adalah implementasi **Object-Oriented Programming (OOP)** dalam tiga bahasa pemrograman: **Python, Java, dan PHP**. Program ini mensimulasikan sistem inventaris produk dalam **PetShop**, di mana pengguna dapat:
+TP ini adalah implementasi **Object-Oriented Programming (OOP)** dalam tiga bahasa pemrograman: **C++, Python, Java, dan PHP**. Program ini mensimulasikan sistem inventaris produk dalam **PetShop**, di mana pengguna dapat:
 
 1. **Menambah produk baru**  
 2. **Menampilkan daftar produk**  
