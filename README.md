@@ -46,3 +46,9 @@ Class `PetShop` memiliki beberapa method utama:
 - `cariProduk()` → Mencari produk berdasarkan nama  
 - `displayInfo()` → Menampilkan detail produk  
 
+### 4️⃣ MPerbedaan Antar Bahasa
+- C++, Python, Java menggunakan input di terminal.
+- PHP berbasis web, memungkinkan upload gambar.
+- C++, Python, Java menyimpan data dalam list/array di memori sementara.
+- PHP menggunakan $_SESSION, sehingga data hilang saat sesi berakhir.
+
