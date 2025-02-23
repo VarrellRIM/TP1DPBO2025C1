@@ -23,13 +23,13 @@ Setiap produk memiliki **atribut** berikut:
 
 ## 🔍 Struktur OOP dalam Program    
 
-### 1️⃣ Class  
-Setiap bahasa memiliki **class utama** bernama **`PetShop`** yang berfungsi sebagai representasi **objek produk** dalam sistem.  
+### 1. Class  
+Setiap bahasa memiliki **class utama** bernama **`PetShopp`** yang berfungsi sebagai representasi **objek produk** dalam sistem.  
 
-### 2️⃣ Object  
+### 2. Object  
 Objek dari class `PetShop` dibuat untuk menyimpan informasi produk yang akan dimasukkan ke dalam **inventory** (daftar produk).
 
-### 3️⃣ Attributes (Properties)  
+### 3. Attributes (Properties)  
 Setiap objek `PetShop` memiliki properti berikut:  
 - `id` → ID Produk (integer)  
 - `nama_produk` → Nama Produk (string)  
@@ -37,7 +37,7 @@ Setiap objek `PetShop` memiliki properti berikut:
 - `harga` → Harga Produk (double/float)  
 - `gambar` (khusus PHP) → Gambar produk dalam format **Base64**  
 
-### 4️⃣ Methods (Fungsi dalam Class)  
+### 4. Methods (Fungsi dalam Class)  
 Class `PetShop` memiliki beberapa method utama:  
 - `tambahProduk()` → Menambahkan produk baru ke dalam inventory  
 - `tampilkanProduk()` → Menampilkan semua produk dalam inventory  
@@ -46,7 +46,7 @@ Class `PetShop` memiliki beberapa method utama:
 - `cariProduk()` → Mencari produk berdasarkan nama  
 - `displayInfo()` → Menampilkan detail produk  
 
-### 4️⃣ MPerbedaan Antar Bahasa
+### 5. Perbedaan Antar Bahasa
 - C++, Python, Java menggunakan input di terminal.
 - PHP berbasis web, memungkinkan upload gambar.
 - C++, Python, Java menyimpan data dalam list/array di memori sementara.
